@@ -1,3 +1,4 @@
+//option one
 function firstReverse(str) {
     let reversed = '';
 
@@ -9,9 +10,8 @@ function firstReverse(str) {
 
 console.log(firstReverse('coderbyte'));
 
-// console.log(firstReverse(readline()));
 
-
+//option two
 function firstReserseTwo(string) {
     let str = string.split('');
     let reversed = str.reverse();
@@ -19,3 +19,11 @@ function firstReserseTwo(string) {
 }
 
 console.log(firstReserseTwo('I love Code'));
+
+
+//option three
+function firstReverseThree(str) {
+    return str.split('').reverse().join('');
+}
+
+console.log(firstReverseThree('Hello World and Coders'));
