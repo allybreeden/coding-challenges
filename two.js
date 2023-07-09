@@ -12,13 +12,13 @@ console.log(firstReverse('coderbyte'));
 
 
 //option two
-function firstReserseTwo(string) {
+function firstReverseTwo(string) {
     let str = string.split('');
     let reversed = str.reverse();
     return reversed.join('');
 }
 
-console.log(firstReserseTwo('I love Code'));
+console.log(firstReverseTwo('I love Code'));
 
 
 //option three
