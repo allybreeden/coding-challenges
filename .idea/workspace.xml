@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2781a10b-652d-43e2-bc6f-d464f645771a" name="Changes" comment="Completed Coding Challenge #1" />
+    <list default="true" id="2781a10b-652d-43e2-bc6f-d464f645771a" name="Changes" comment="Completed Coding Challenge #2 and fixed typos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/allyandbrittbreeden/LiveCodePracticeProj/Coding-Challenges/coding-challenges"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/allyandbrittbreeden/LiveCodePracticeProj/Coding-Challenges/coding-challenges&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,11 +44,19 @@
       <option name="project" value="LOCAL" />
       <updated>1688140879263</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed Coding Challenge #2 and fixed typos">
+      <created>1688917949412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688917949412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed Coding Challenge #1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Coding Challenge #1" />
+    <MESSAGE value="Completed Coding Challenge #2 and fixed typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Coding Challenge #2 and fixed typos" />
   </component>
 </project>
